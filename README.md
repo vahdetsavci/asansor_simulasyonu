@@ -1,4 +1,5 @@
 # asansor_simulasyonu
+Bu proje **PatikaAcademy.dev** platformunun **Başlangıç Seviyesi .Net Core Patikası** eğitimi kapsamında **Ödev - Asansör Simülasyonu** dersi için yapılmıştır. İçerisinde 1 README, 1 LICENSE ve 1 .png dosyası barındırır.
 
 Bu projede Nesne Yönelimli Programlamanın ilkeleri ve sınıflar arası ilişki durumları kullanılmıştır. (Encapsulation, Inheritance, Polymorphism, Abstraction)
 
